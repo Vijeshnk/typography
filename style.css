@@ -1,0 +1,29 @@
+@import url('https://fonts.googleapis.com/css?family=Poppins:400,700,900');
+body{
+    margin: 0;
+    padding: 0;
+    font-family: 'Poppins', sans-serif;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    background: #000; 
+    
+
+}
+p {
+    font-size: 10px;
+    line-height: 10px;
+    
+    background: url(Subhas_Chandra_Bose_NRB.jpg);
+    height: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: 35%;
+
+    
+    
+    
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: rgba(255,255, 255, 0);
+}
